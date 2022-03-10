@@ -26,7 +26,7 @@
 Plugin a Decentralized Oracle Network is conducting this hackathon to provide a unique opportunities for all the "doers" who has will to convert their dreams to reality. We welcome the participants to register the team and submit your ideas. This event is going to happen in hybrid mode, which is happening in Dubai (@ Hyatt Regency Hotel ) & also online. So why are you waiting for!, there is no constraints for you in this pandemic, but only constraints we have for you is, your idea should be on Blockchain & should leverage Plugin Oracle service.
 
 ## Bounties (for Participants who implements / leverages Plugin Oracle Service)
-100 PLI for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet installed immediately , after your registratoin.
+100 PLI for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
 
 ### Sample Repository(How to setup one Dapp - Quickly)
 * [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
@@ -48,6 +48,7 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 
 ### Tools needed
 * [XDCPay wallet](https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB)
+* [D'Cent wallet](https://userguide.dcentwallet.com/biometric-wallet/setting-up)
 * [Remix-ethereum](https://remix.ethereum.org/)
 * [Remix-xinfin](https://remix.xinfin.network/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
