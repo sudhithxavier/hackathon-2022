@@ -12,6 +12,7 @@
     * [Overview](#Bounty-Overview)
     * [Judgement Criteria](#Judgement-Criteria)
 * [Industry to focus](#Industry_to_focus)
+* [Tools needed](#Tools-needed)
 * [Do's](#Do's)
 * [Dont's](#Dont's)
 
