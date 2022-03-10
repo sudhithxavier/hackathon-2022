@@ -52,10 +52,10 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 ### Tools needed
 * [XDCPay wallet](https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB)
 * [D'Cent wallet](https://userguide.dcentwallet.com/biometric-wallet/setting-up)
-* [Remix-ethereum](https://remix.ethereum.org/)
 * [Remix-xinfin](https://remix.xinfin.network/)
+* [Remix-ethereum](https://remix.ethereum.org/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
-* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)(👈For Windows users, if needed.)
 
 
 ### Do's 
