@@ -30,7 +30,7 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 
 ### Sample Repository(How to setup one Dapp - Quickly)
 * [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
-* [**Build a CryptoCompare Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
+* [**Build a CryptoCompare Node dApp with Plugin Decentralized Oracle **](https://docs.goplugin.co/use-cases/crypto-compare-pricing-index)
 
 ### Industry to focus
 * Healthcare
