@@ -19,6 +19,9 @@
 * [GOPLUGIN Website](https://www.goplugin.co/)
 * [GOPLUGIN DOCS](https://docs.goplugin.co/)
 * [GOPLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
+* [GOPLUGIN Youtube](https://www.youtube.com/channel/UC2SAjmusd1I2OmkR8pL5S_w/playlists)(👈Go through this to get an idea of our eco-system)
+* [XDC Fundamentals](https://codedamn.com/learn/xdc-workshop)
+* [XDC Advanced](https://codedamn.com/learn/xdc-workshop-advanced)
 
 ## Introduction
 ### Why Plugin Hackathon?
