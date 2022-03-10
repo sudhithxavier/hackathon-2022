@@ -52,10 +52,6 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-### How to connect to our AWS instance
-You can connect to our AWS instances through the supplied 'pem' file and the command is given below.
-ssh -i "<GIVEN>.pem" <AWS_server_endpoint>
-
 
 ### Do's 
 * Always give credits to the respective repository owner if you are using someother solutions
