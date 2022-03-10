@@ -41,7 +41,7 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 
 ### Judgement Criteria
 * Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
-* Should upload their repository in [plugin-org/Hackathon]() - Sub-folder
+* Should upload their repository in [plugin-org/Hackathon](https://github.com/plugin-org/hackathon) - Sub-folder
 * Should provide clear read-me file, on how to execute the same the repository
 * Should provide valid "XDCPay" Pubic wallet address to receive the bounty / prize
 * Idea should be innovative
