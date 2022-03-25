@@ -32,6 +32,8 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 
 ## Bounties (for Participants who implements / leverages Plugin Oracle Service)
 PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
+In hackathon you wil be competing for a total prize of 10,000 USD worth of XDC tokens.
+The hackathon event offers exciting business opportunities to all teams as they will have a chance to shine to their advantage before a jury of renowned experts.
 
 ### Sample Repository(How to setup one Dapp - Quickly)
 * [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
@@ -39,10 +41,15 @@ PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://u
 
 ### Industry to focus
 * Healthcare
+   - Using wearables data provide doctors / insurance provider to determine patient health
 * Fintech
+   - Price Feeds Development, Build Synthetic Assets, External Payments.
 * Insurance
+   - Using weather data API, build a Dapp that helps farmers / agriculture to claim insurance, use weather data API, build a Dapp that helps passenger to purchase insurance and claim.
 * Defi
+   - Staking Protocol, Yield Farming.
 * NFT-Gaming
+   - Build application, such as NFT Minting, NFT Gaming, NFT marketplace.
 
 ### Judgement Criteria
 * Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
@@ -62,6 +69,7 @@ PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://u
 
 ### Do's 
 * Always give credits to the respective repository owner if you are using someother solutions
+* Even if your idea/solution is undone within the timeframe, you can submit your idea/solution to our github repository with a clear detailed read-me file.
 
 ### Dont's 
 * Do not copy paste the existing repo and just submit
